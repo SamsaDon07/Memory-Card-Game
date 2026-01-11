@@ -32,4 +32,11 @@ No frameworks. No libraries. Just clean fundamentals.
 ---
 
 ## 📂 Project Structure
+memory-game/
+├── index.html # Main HTML structure
+├── style.css # Styling & animations
+├── script.js # Game logic
+└── README.md # Project documentation
+
+
 
